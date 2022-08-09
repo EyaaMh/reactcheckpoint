@@ -1,0 +1,43 @@
+.tit{
+  color: rgb(139, 28, 28);
+  text-transform: capitalize;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.NS{
+  display: flex;
+  gap:1vw
+  
+}
+ 
+.but{
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+}
+
+.butt{
+  border-radius: 10px;
+  background-color: rgb(192, 161, 161);
+  padding: 9px;
+  border: none;
+}
+
+
+
+.body{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 10px;
+  width: 20%;
+  padding: 50px;
+  
+}
+
+.body{
+  border-radius: 30px;
+  color: black;
+}

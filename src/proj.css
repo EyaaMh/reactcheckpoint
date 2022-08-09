@@ -1,0 +1,11 @@
+.body{
+    width: 50%;
+}
+
+.butt{
+    border-radius: 10px;
+  background-color: rgb(192, 161, 161);
+  padding: 9px;
+  border: none;
+  width: 50%;
+}
